@@ -91,7 +91,7 @@ hr {
 #headerwrap h1 {
   margin-top: 100px;
   color: #332B33;
-  font-size: 70px;
+  font-size: 50px;
   font-weight: 300;
   letter-spacing: 3px;
   text-shadow: 3px 3px 9px #000;
@@ -104,15 +104,6 @@ hr {
   letter-spacing: 2px;
   text-transform: uppercase;
   text-shadow: 3px 3px 9px #000;
-}
-
-@media (max-width: 640px) {
-  #headerwrap h1 {
-    font-size: 50px;
-  }
-  #headerwrap h2 {
-    font-size: 40px;
-  }
 }
 
 .w {
