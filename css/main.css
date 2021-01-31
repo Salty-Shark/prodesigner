@@ -151,6 +151,10 @@ hr {
   font-size: 35px;
 }
 
+.wb img {
+  width: 80%
+}
+
 #lg {
   background: #ebebeb;
   padding-top: 70px;
