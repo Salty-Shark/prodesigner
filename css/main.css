@@ -70,6 +70,8 @@ hr {
   letter-spacing: 1px;
 }
 
+/* Главный блок на сайте */
+
 #headerwrap {
   background: url(../img/Interer.jpg) no-repeat center top;
   margin-top: -10px;
@@ -116,6 +118,8 @@ hr {
   font-size: 25px;
 }
 
+/* Блок с последними работами*/
+
 #dg {
   background: #e0e0e0;
   padding-top: 70px;
@@ -124,7 +128,7 @@ hr {
 }
 
 #dg h4 {
-  font-size: 40px;
+  font-size: 45px;
 }
 
 .tilt {
@@ -145,17 +149,21 @@ hr {
           transform: scale(1.5);
 }
 
+/* Блок про превосходства услуг*/
+
 .wb {
   padding-top: 35px;
 }
 
 .wb h4 {
-  font-size: 35px;
+  font-size: 45px;
 }
 
 .wb img {
   width: 100%;
 }
+
+/* Блок с партнерами */
 
 #lg {
   background: #ebebeb;
@@ -167,6 +175,8 @@ hr {
 #lg h4 {
   font-size: 45px;
 }
+
+/* Блок с Гарантией*/
 
 #r {
   background: #CCD5CC;
@@ -182,6 +192,8 @@ hr {
 #r p {
   color: #332B33;
 }
+
+/* Блок с футером */
 
 #f {
   background: #2d2d2d;
