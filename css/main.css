@@ -142,6 +142,7 @@ hr {
 .tilt:hover {
   padding-bottom: 50px;
   padding-top: 40px;
+  margin: 0;
   -webkit-transform: scale(1.5);
      -moz-transform: scale(1.5);
        -o-transform: scale(1.5);
